@@ -12,6 +12,7 @@
 - [HackerRank](https://hackerrank.com/u/rohitdev)
 - [Blog](https://jetminds.in)
 - [Medium](https://medium.com/ur/user/rohitdev)
+  
 
 
 # [Front-end Projects](https://github.com/front-end/readme.md)
