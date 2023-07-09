@@ -5,7 +5,6 @@
 - [Back-end Projects](https://github.com/back-end)
 - [Full Stack Projects](https://github.com/full-stack)
 
-
 # Checkout My Other Profiles:
 - [LinkedIn](https://linkedin.com/user/rohitdev )
 - [LeetCode](https://leetcode.com/profile/rohitdev)
