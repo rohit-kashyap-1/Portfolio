@@ -13,7 +13,6 @@
 - [Medium](https://medium.com/ur/user/rohitdev)
   
 
-
 # [Front-end Projects](https://github.com/front-end/readme.md)
 
 ## [1.Lawstreet Journal](https://github.com/randomsq2/lawstreet.co)
